@@ -497,6 +497,9 @@ h6,
 #header2-4 .btn {
   font-family: 'Bitter', serif;
 }
+#header2-4 .mbr-section-title I {
+  text-align: left;
+}
 #msg-box5-7 H3 {
   color: #9c9a9a;
   font-family: 'Bitter', serif;
