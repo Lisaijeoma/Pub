@@ -489,6 +489,9 @@ h6,
 #header1-l .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
 }
+#header1-l .mbr-section-title SPAN {
+  font-size: 100px;
+}
 
 
 
@@ -777,5 +780,11 @@ h6,
   color: #ffffff;
 }
 #form1-f I {
+  color: #ffffff;
+}
+#form1-f .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#form1-f SMALL {
   color: #ffffff;
 }
