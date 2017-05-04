@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-12-09_1127",
-    "currentPage": "index.html",
+    "currentPage": "About me.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -329,7 +329,7 @@
             "paddingBottom": "5",
             "bgColor": "#7e9b9f"
           },
-          "text": "<p>I'm a 19-year old student at Luca School of Arts Ghent, driven by the art of painting and drawing. I aim to create a new world, in which the spectator can submerge in a mixture of reality and fantasy. &nbsp;</p>"
+          "text": "<p>I'm a 19-year old student at Luca School of Arts in Ghent. </p><p>I want to create a new world, in which the spectator can submerge in a mixture of reality and fantasy. &nbsp;</p><p>My main themes revolve around plants and/or the color green.</p><p><br></p><p>I hope you enjoy my work!</p>"
         },
         {
           "_inherit": "social-buttons2",
