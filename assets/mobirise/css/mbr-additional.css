@@ -486,6 +486,7 @@ h6,
   text-align: left;
   font-size: 100px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 #header1-l .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
@@ -496,6 +497,14 @@ h6,
 }
 #header1-l .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
+>>>>>>> origin/gh-pages
+=======
+}
+#header1-l .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+}
+#header1-l .mbr-section-title SPAN {
+  font-size: 100px;
 >>>>>>> origin/gh-pages
 }
 
@@ -652,6 +661,42 @@ h6,
 #ext_menu-a .link[aria-expanded="true"],
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+<<<<<<< HEAD
+=======
+}
+#msg-box5-x H3 {
+  color: #ffffff;
+}
+#msg-box5-x P {
+  color: #ffffff;
+}
+#msg-box5-y I {
+  color: #ffffff;
+}
+#msg-box5-y P {
+  color: #ffffff;
+}
+#msg-box5-y SPAN {
+  color: #ffffff;
+}
+#msg-box5-10 H3 {
+  color: #ffffff;
+}
+#msg-box5-10 P {
+  color: #ffffff;
+}
+#msg-box5-11 H3 {
+  color: #ffffff;
+}
+#msg-box5-11 P {
+  color: #ffffff;
+}
+#msg-box5-12 H3 {
+  color: #ffffff;
+}
+#msg-box5-12 P {
+  color: #ffffff;
+>>>>>>> origin/gh-pages
 }
 
 #ext_menu-d .hide-buttons .nav-btn {
@@ -715,6 +760,27 @@ h6,
 #ext_menu-d .link[aria-expanded="true"],
 #ext_menu-d .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+<<<<<<< HEAD
+=======
+}
+#msg-box5-14 H3 {
+  color: #ffffff;
+}
+#msg-box5-14 P {
+  color: #ffffff;
+}
+#msg-box5-15 H3 {
+  color: #ffffff;
+}
+#msg-box5-15 P {
+  color: #ffffff;
+}
+#msg-box5-16 P {
+  color: #ffffff;
+}
+#msg-box5-16 H3 {
+  color: #ffffff;
+>>>>>>> origin/gh-pages
 }
 
 #ext_menu-e .hide-buttons .nav-btn {
@@ -788,6 +854,7 @@ h6,
 #form1-f I {
   color: #ffffff;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 #form1-f .mbr-section-title SPAN {
   color: #ffffff;
@@ -795,5 +862,14 @@ h6,
 #form1-f SMALL {
   color: #ffffff;
 =======
+>>>>>>> origin/gh-pages
+=======
+}
+#form1-f .mbr-section-title SPAN {
+  color: #ffffff;
+  text-align: center;
+}
+#form1-f SMALL {
+  color: #ffffff;
 >>>>>>> origin/gh-pages
 }
