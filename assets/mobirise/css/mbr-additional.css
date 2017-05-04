@@ -485,27 +485,12 @@ h6,
 #header1-l .mbr-section-title I {
   text-align: left;
   font-size: 100px;
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
 #header1-l .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
 }
 #header1-l .mbr-section-title SPAN {
   font-size: 100px;
-=======
-}
-#header1-l .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
->>>>>>> origin/gh-pages
-=======
-}
-#header1-l .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
-#header1-l .mbr-section-title SPAN {
-  font-size: 100px;
->>>>>>> origin/gh-pages
 }
 
 
@@ -661,8 +646,6 @@ h6,
 #ext_menu-a .link[aria-expanded="true"],
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
-<<<<<<< HEAD
-=======
 }
 #msg-box5-x H3 {
   color: #ffffff;
@@ -696,7 +679,6 @@ h6,
 }
 #msg-box5-12 P {
   color: #ffffff;
->>>>>>> origin/gh-pages
 }
 
 #ext_menu-d .hide-buttons .nav-btn {
@@ -760,8 +742,6 @@ h6,
 #ext_menu-d .link[aria-expanded="true"],
 #ext_menu-d .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
-<<<<<<< HEAD
-=======
 }
 #msg-box5-14 H3 {
   color: #ffffff;
@@ -780,7 +760,6 @@ h6,
 }
 #msg-box5-16 H3 {
   color: #ffffff;
->>>>>>> origin/gh-pages
 }
 
 #ext_menu-e .hide-buttons .nav-btn {
@@ -853,17 +832,6 @@ h6,
 }
 #form1-f I {
   color: #ffffff;
-<<<<<<< HEAD
-<<<<<<< HEAD
-}
-#form1-f .mbr-section-title SPAN {
-  color: #ffffff;
-}
-#form1-f SMALL {
-  color: #ffffff;
-=======
->>>>>>> origin/gh-pages
-=======
 }
 #form1-f .mbr-section-title SPAN {
   color: #ffffff;
@@ -871,5 +839,4 @@ h6,
 }
 #form1-f SMALL {
   color: #ffffff;
->>>>>>> origin/gh-pages
 }
