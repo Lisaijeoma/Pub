@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-12-09_1127",
-    "currentPage": "Paintings.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -464,6 +464,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-x",
           "_params": {
             "imageSize": "50",
@@ -510,21 +518,24 @@
           },
           "title": "<p><span style=\"font-weight: normal;\">Thailand 1, 2016</span></p>",
           "text": "Oil on linen",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "I": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-y",
           "_params": {
             "imageSize": "50",
@@ -571,24 +582,21 @@
           },
           "title": "<span style=\"font-weight: normal;\">Thailand 2, 2016</span>",
           "text": "Oil on linen",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "I": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-10",
           "_params": {
             "imageSize": 50,
@@ -635,7 +643,13 @@
           },
           "title": "<span style=\"font-weight: normal;\">Thailand 3, 2016</span>",
           "text": "Oil on linen",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
               "color": "#ffffff"
@@ -643,13 +657,7 @@
             "P": {
               "color": "#ffffff"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-11",
           "_params": {
             "imageSize": 50,
@@ -696,7 +704,13 @@
           },
           "title": "<span style=\"font-weight: normal;\">Chinouk, 2017</span>",
           "text": "Oil on linen",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
               "color": "#ffffff"
@@ -704,13 +718,7 @@
             "P": {
               "color": "#ffffff"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-12",
           "_params": {
             "imageSize": 50,
@@ -757,15 +765,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Clara-Lane, 2017</span>",
           "text": "Oil on wood",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -873,6 +873,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-14",
           "_params": {
             "imageSize": "50",
@@ -919,7 +927,13 @@
           },
           "title": "<span style=\"font-weight: normal;\">Naakt 1, 2016</span>",
           "text": "Green pencil on paper, A3",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
               "color": "#ffffff"
@@ -927,13 +941,7 @@
             "P": {
               "color": "#ffffff"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-15",
           "_params": {
             "imageSize": 50,
@@ -980,21 +988,21 @@
           },
           "title": "<span style=\"font-weight: normal;\">Naakt 2, 2016</span>",
           "text": "Green pencil and oil on linen, A4",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-16",
           "_params": {
             "imageSize": 50,
@@ -1041,15 +1049,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Naakt 3, 2017</span>",
           "text": "Graphite and charcoal on paper, A3",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
