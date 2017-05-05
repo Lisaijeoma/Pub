@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-12-09_1127",
-    "currentPage": "Drawings.html",
+    "currentPage": "Paintings.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,12 +17,13 @@
         "textFont": "Oxygen",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.1",
     "uniqCompNum": 43,
-    "versionPublish": "3.10.3",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
