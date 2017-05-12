@@ -493,98 +493,6 @@ h6,
   font-size: 100px;
 }
 
-
-
-
-
-#ext_menu-8 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-8 .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-8 .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-8 .close-icon::before,
-#ext_menu-8 .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-8 .link,
-#ext_menu-8 .dropdown-item {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-}
-#ext_menu-8 .link {
-  font-size: 0.6rem;
-}
-#ext_menu-8 .dropdown-item,
-#ext_menu-8 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
-}
-#ext_menu-8 .link:hover,
-#ext_menu-8 .dropdown-item:hover,
-#ext_menu-8 .link:focus,
-#ext_menu-8 .dropdown-item:focus {
-  color: #ffffff;
-}
-#ext_menu-8 .link[aria-expanded="true"],
-#ext_menu-8 .dropdown-menu {
-  background: #648286;
-}
-#ext_menu-8 .nav-dropdown-sm .link:focus,
-#ext_menu-8 .nav-dropdown-sm .link:hover,
-#ext_menu-8 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-8 .nav-dropdown-sm .dropdown-item:hover {
-  background: #759498!important;
-}
-#ext_menu-8 .navbar,
-#ext_menu-8 .nav-dropdown-sm,
-#ext_menu-8 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-8 .nav-dropdown-sm .dropdown-menu {
-  background: #7e9b9f;
-}
-#ext_menu-8 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-8 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-8 .bg-color.transparent.opened .link:hover,
-#ext_menu-8 .bg-color.transparent.opened .link:focus {
-  color: #ffffff;
-}
-#ext_menu-8 .link[aria-expanded="true"],
-#ext_menu-8 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
-}
-#header3-g .mbr-section-title,
-#header3-g .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-g I {
-  font-family: 'Oxygen', sans-serif;
-  color: #ffffff;
-}
-#header3-g SMALL {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-}
-#header3-g SPAN {
-  font-family: 'Oxygen', sans-serif;
-  color: #ffffff;
-}
-#content1-m P {
-  font-family: 'Oxygen', sans-serif;
-  color: #ffffff;
-  text-align: center;
-}
-#social-buttons4-t .mbr-section-title,
-#social-buttons4-t .btn-social {
-  color: #fff;
-}
-
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -839,4 +747,96 @@ h6,
 }
 #form1-f SMALL {
   color: #ffffff;
+}
+
+
+
+
+
+#ext_menu-8 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-8 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-8 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-8 .close-icon::before,
+#ext_menu-8 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-8 .link,
+#ext_menu-8 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-8 .link {
+  font-size: 0.6rem;
+}
+#ext_menu-8 .dropdown-item,
+#ext_menu-8 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#ext_menu-8 .link:hover,
+#ext_menu-8 .dropdown-item:hover,
+#ext_menu-8 .link:focus,
+#ext_menu-8 .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-8 .link[aria-expanded="true"],
+#ext_menu-8 .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-8 .nav-dropdown-sm .link:focus,
+#ext_menu-8 .nav-dropdown-sm .link:hover,
+#ext_menu-8 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-8 .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-8 .navbar,
+#ext_menu-8 .nav-dropdown-sm,
+#ext_menu-8 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-8 .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-8 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-8 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-8 .bg-color.transparent.opened .link:hover,
+#ext_menu-8 .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-8 .link[aria-expanded="true"],
+#ext_menu-8 .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#header3-g .mbr-section-title,
+#header3-g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-g I {
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+}
+#header3-g SMALL {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-g SPAN {
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+}
+#content1-m P {
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+#social-buttons4-t .mbr-section-title,
+#social-buttons4-t .btn-social {
+  color: #fff;
 }
