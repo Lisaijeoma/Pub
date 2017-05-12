@@ -22,9 +22,10 @@
       }
     },
     "versionFirst": "3.10.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 47,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
