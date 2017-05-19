@@ -588,6 +588,10 @@ h6,
 #msg-box5-12 P {
   color: #ffffff;
 }
+#footer1-1b P {
+  font-size: 17px;
+  color: #ffffff;
+}
 
 #ext_menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -669,6 +673,10 @@ h6,
 #msg-box5-16 H3 {
   color: #ffffff;
 }
+#footer1-1b P {
+  font-size: 17px;
+  color: #ffffff;
+}
 
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
@@ -746,6 +754,10 @@ h6,
   text-align: center;
 }
 #form1-f SMALL {
+  color: #ffffff;
+}
+#footer1-1b P {
+  font-size: 17px;
   color: #ffffff;
 }
 
@@ -839,4 +851,8 @@ h6,
 #social-buttons4-t .mbr-section-title,
 #social-buttons4-t .btn-social {
   color: #fff;
+}
+#footer1-1b P {
+  font-size: 17px;
+  color: #ffffff;
 }
